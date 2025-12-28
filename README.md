@@ -4,7 +4,6 @@
 
 ## Features
 
-- чиста архітектура
 - useGame composable (game logic)
 - dumb UI components
 - computed game state
@@ -14,4 +13,4 @@
 
 - Vue 3
 - Composition API
-- SCSS
+- CSS
